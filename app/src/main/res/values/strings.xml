@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FillMemory</string>
+    <string name="label_cur_size">Current Size: </string>
+    <string name="label_new_size">New Size: </string>
+    <string name="btn_fill">Fill</string>
+    <string name="btn_query">Query</string>
+</resources>
