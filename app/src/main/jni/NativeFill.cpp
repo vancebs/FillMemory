@@ -23,6 +23,7 @@ void NativeFill::fill(int size) {
             free(mppBuff[i]);
         }
         free(mppBuff);
+        mppBuff = NULL;
     }
     mBuffSize = 0;
 
